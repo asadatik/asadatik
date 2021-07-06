@@ -48,7 +48,7 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 
 ♦♦♦♦ Visit:
 
--- <a href="https://asadatik.me">https://asadatik.me</a>
+-- [https://asadatik.me](https://asadatik.me)
 -- https://teamroyalcoder.com
 
 ♦♦♦♦ Contact:
