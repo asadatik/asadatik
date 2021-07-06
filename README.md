@@ -1,4 +1,3 @@
-~~~
 Hi, I'm Asaduzzaman Atik ( @asadatik ).
 4+ years experienced, Professional Web & Software Developer. I love to code all the time.
 
@@ -37,25 +36,25 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
     
 ♦♦♦♦ Professional experience :
 • CEO & Founder at Team RoyalCoder.
-
+<br/>
 ♦♦♦♦ Additional Info:
 • Language(s):
     -- English, Hindi, Bengali.
-
+<br/>
 *******************************************************
-
+<br/>
 //\\ Let's have a cup of COFEE ----
-
+<br/>
 ♦♦♦♦ Visit:
-
--- [https://asadatik.me](https://asadatik.me)
--- https://teamroyalcoder.com
-
-♦♦♦♦ Contact:
-
--- business@asadatik.me
--- hola@asadatik.me
--- business@teamroyalcoder.com
--- hola@teamroyalcoder.com
-
+<br/>
+-- [https://asadatik.me](https://asadatik.me)<br/>
+-- https://teamroyalcoder.com<br/>
+<br/>
+♦♦♦♦ Contact:<br/>
+<br/>
+-- business@asadatik.me<br/>
+-- hola@asadatik.me<br/>
+-- business@teamroyalcoder.com<br/>
+-- hola@teamroyalcoder.com<br/>
+<br/>
 /* Thanks For Visiting My Profile! */ 
