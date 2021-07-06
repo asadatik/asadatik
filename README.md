@@ -1,6 +1,7 @@
 <pre>
 <a href="https://asadatik.me"><img src="https://user-images.githubusercontent.com/50286233/124565639-1415c900-de64-11eb-8fa4-b3c1945766fc.png" align="left" height="100"></a>
-<br/>
+</pre>
+<pre>
 Hi, I'm Asaduzzaman Atik ( @asadatik ).
 4+ years experienced, Professional Web & Software Developer. I love to code all the time.
 
