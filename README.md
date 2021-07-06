@@ -2,7 +2,7 @@
 Hi, I'm Asaduzzaman Atik ( @asadatik ).
 4+ years experienced, Professional Web & Software Developer. I love to code all the time.
 
-//\\ Lets talk about what I HAVE IN MY TINY LITTLE BRAIN made by ALLAH ( the MERCIFUL ) ----
+--  //\\ Lets talk about what I HAVE IN MY TINY LITTLE BRAIN made by ALLAH ( the MERCIFUL ) ----
 
 ♦♦♦♦ Key Skill:
 • Team Leadership.
@@ -42,21 +42,19 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 • Language(s):
     -- English, Hindi, Bengali.
     
-*******************************************************
-
-//\\ Let's have a cup of COFEE ----
+--   //\\ Let's have a cup of COFEE ----
 
 ♦♦♦♦ Visit:
 
--- https://asadatik.me
--- https://teamroyalcoder.com
+-- <https://asadatik.me>
+-- <https://teamroyalcoder.com>
 
 ♦♦♦♦ Contact:
 
--- business@asadatik.me
--- hola@asadatik.me
--- business@teamroyalcoder.com
--- hola@teamroyalcoder.com
+-- <business@asadatik.me>
+-- <hola@asadatik.me>
+-- <business@teamroyalcoder.com>
+-- <hola@teamroyalcoder.com>
 
 /* Thanks For Visiting My Profile! */ 
 </pre>
