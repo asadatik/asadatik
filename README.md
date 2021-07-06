@@ -11,7 +11,7 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 • Cyber Security Specialists.
 • Technical Support.
 • YouTuber.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ♦♦♦♦ Technical Skill:
 • Language skill(s):
     -- HTML, CSS, JavaScript, PHP, Python, C, C#, C++
@@ -33,10 +33,10 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
     -- Wordpress ( PHP )
 • Graphics software(s):
     -- Adobe Photoshop
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
 ♦♦♦♦ Professional experience :
 • CEO & Founder at Team RoyalCoder.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ♦♦♦♦ Additional Info:
 • Language(s):
     -- English, Hindi, Bengali.
@@ -48,7 +48,7 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 ♦♦♦♦ Visit:
 -- https://asadatik.me
 -- https://teamroyalcoder.com
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ♦♦♦♦ Contact:
 -- business@asadatik.me
 -- hola@asadatik.me
