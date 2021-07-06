@@ -1,5 +1,5 @@
 <pre>
-<img src="https://drive.google.com/uc?export=view&id=1GlpnB5j6Xa-s6YuWNf9Pgl62fENz6Qmg" alt="logo of asadatik" height="50" />
+![logo-h](https://user-images.githubusercontent.com/50286233/124565639-1415c900-de64-11eb-8fa4-b3c1945766fc.png)
 Hi, I'm Asaduzzaman Atik ( @asadatik ).
 4+ years experienced, Professional Web & Software Developer. I love to code all the time.
 
