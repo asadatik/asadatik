@@ -1,5 +1,5 @@
 <pre>
-<img src="https://drive.google.com/file/d/1fOwoiWdMgmcnDymP-imkbZETW6T0Raxh/view?usp=sharing" alt="logo of asadatik" style="height: 80px; width: auto; object-fit: contain;" />
+<img src="https://drive.google.com/uc?export=view&id=1GlpnB5j6Xa-s6YuWNf9Pgl62fENz6Qmg" alt="logo of asadatik" style="height: 80px; width: auto; object-fit: contain;" />
 Hi, I'm Asaduzzaman Atik ( @asadatik ).
 4+ years experienced, Professional Web & Software Developer. I love to code all the time.
 
