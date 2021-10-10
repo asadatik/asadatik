@@ -24,13 +24,11 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
     -- SASS, SCSS
 • CSS framework(s):
     -- ( Core ) Bootstrap, Bulma, Semantic-Ui
-    -- ( React ) MUI, React Bootstrap, Semantic-Ui for React, Ant Design for React, RSuite, Rebass, React Admin, React Dashboard
+    -- ( React ) MUI, React Bootstrap, Semantic-Ui React, Blueprint, Evergreen, Ant Design for React, RSuite, Rebass, React Admin, React Dashboard
 • JavaScript library(s):
-    -- JQuery, ReactJS
-• PHP framework(s):
-    -- Laravel
+    -- JQuery, ReactJS, Angular
 • Web framework(s):
-    -- Django ( Python ), Flask ( Python )
+    -- Django ( Python ), Flask ( Python ), Laravel ( PHP )
 • Database system(s):
     -- MySQL
 • CMS(s):
@@ -39,7 +37,7 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
     -- Adobe Photoshop
     
 ♦♦♦♦ Professional experience :
-• CEO & Founder at Team RoyalCoder.
+• CEO & Founder at Team RoyalCoder, Host at Space, Cybersping.
 
 ♦♦♦♦ Additional Info:
 • Language(s):
@@ -51,13 +49,15 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 
 -- <a href="https://asadatik.me">https://asadatik.me</a>
 -- <a href="https://teamroyalcoder.com">https://teamroyalcoder.com</a>
+-- <a href="https://hostat.space">https://hostat.space</a>
+-- <a href="https://cybersping.com">https://cybersping.com</a>
 
 ♦♦♦♦ Contact:
 
--- <a href="mailto:business@asadatik.me">business@asadatik.me</a>
--- <a href="mailto:hola@asadatik.me">hola@asadatik.me</a>
--- <a href="mailto:business@teamroyalcoder.com">business@teamroyalcoder.com</a>
--- <a href="mailto:hola@teamroyalcoder.com">hola@teamroyalcoder.com</a>
+-- <a href="mailto:asadatik.me.official@gmail.com">asadatik.me.official@gmail.com</a>
+-- <a href="mailto:teamroyalcoder.official@gmail.com">teamroyalcoder.official@gmail.com</a>
+-- <a href="mailto:hostatspace.team@gmail.com">hostatspace.team@gmail.com</a>
+-- <a href="mailto:cybersping.team@gmail.com">cybersping.team@gmail.com</a>
 
 /* Thanks For Visiting My Profile! */ 
 </pre>
