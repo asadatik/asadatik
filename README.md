@@ -30,7 +30,7 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 • Web framework(s):
     -- Django ( Python ), Flask ( Python ), Laravel ( PHP ), NextJS ( React ), Gatsby ( React )
 • Package manager(s):
-    -- Yarn, NPM, Composer
+    -- Yarn ( JavaScript ), NPM ( JavaScript ), Composer ( PHP )
 • Database system(s):
     -- MySQL
 • CMS(s):
