@@ -11,20 +11,20 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 • Team Leadership.
 • Web Design and Development ( Fully Responsive & Multi-browser compatibility ).
 • Software / App Design and Development.
-• Game Design and Development
-• Cyber Security Specialists.
+• Cyber Security Basic.
 • Technical Support.
 • YouTuber.
 
 ♦♦♦♦ Technical Skill:
 • Language skill(s):
-    -- HTML, CSS, JavaScript, PHP, Python, C, C#, C++
+    -- HTML, CSS, JavaScript, PHP, Python, C++
 • HTML template engine(s):
-    -- Pug
+    -- Pug ( Node ), Twig ( PHP )
 • CSS preprocessor(s):
     -- SASS, SCSS
 • CSS framework(s):
-    -- Bootstrap, Bulma, Semantic-Ui
+    -- ( Core ) Bootstrap, Bulma, Semantic-Ui
+    -- ( React ) MUI, React Bootstrap, Semantic-Ui for React, Ant Design for React, RSuite, Rebass, React Admin, React Dashboard
 • JavaScript library(s):
     -- JQuery, ReactJS
 • PHP framework(s):
