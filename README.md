@@ -21,14 +21,16 @@ Hi, I'm Asaduzzaman Atik ( @asadatik ).
 • HTML template engine(s):
     -- Pug ( Node ), Twig ( PHP )
 • CSS preprocessor(s):
-    -- SASS, SCSS
+    -- SASS
 • CSS framework(s):
     -- ( Core ) Bootstrap, Bulma, Semantic-Ui
     -- ( React ) MUI, React Bootstrap, Semantic-Ui React, Blueprint, Evergreen, Ant Design for React, RSuite, Rebass, React Admin, React Dashboard
 • JavaScript library(s):
     -- JQuery, ReactJS, Angular
 • Web framework(s):
-    -- Django ( Python ), Flask ( Python ), Laravel ( PHP )
+    -- Django ( Python ), Flask ( Python ), Laravel ( PHP ), NextJS ( React ), Gatsby ( React )
+• Package manager(s):
+    -- Yarn, NPM, Composer
 • Database system(s):
     -- MySQL
 • CMS(s):
