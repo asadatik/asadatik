@@ -2,7 +2,7 @@
 # Hi\, I\'m Asaduzzaman Atik \(@asadatik\)\.
 4\+ years experienced\, Professional Web \& Software Developer\. I love to code all the time\.
 
-\-\- Lets talk about what I HAVE IN MY TINY LITTLE BRAIN made by ALLAH \( the MERCIFUL \)
+\-\- Lets talk about what I HAVE IN MY TINY LITTLE BRAIN made by ALLAH \(the MERCIFUL\)
 
 ### Key Skill\(s\)\:
 - Team Leadership\.
