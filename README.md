@@ -1,7 +1,6 @@
 <pre>
-<a href="https://asadatik.me"><img src="https://user-images.githubusercontent.com/50286233/163676872-f8a0f5ad-e6c3-4e49-9aef-ba117438cac1.png" align="left" height="100"></a>
-<br/>
-Hi, I'm Asaduzzaman Atik ( @asadatik ).
+<h1><a href="https://asadatik.me"><img src="https://user-images.githubusercontent.com/50286233/163676872-f8a0f5ad-e6c3-4e49-9aef-ba117438cac1.png" align="left" height="100"></a></h1>
+<h3>Hi, I'm Asaduzzaman Atik ( @asadatik ).</h3>
 4+ years experienced, Professional Web & Software Developer. I love to code all the time.
 
 --  //\\ Lets talk about what I HAVE IN MY TINY LITTLE BRAIN made by ALLAH ( the MERCIFUL ) ----
