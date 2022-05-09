@@ -17,19 +17,19 @@
     - PHP\, Python\, C\+\+
 - Markup Language\(s\)
     - HTML
-- HTML template engine\(s\)\:
-    - Pug \(Node\)\, Twig \(PHP\)
+        - Template engine\(s\)\:
+            - Pug \(Node\)\, Twig \(PHP\)
 - Style Sheet Language\(s\)
     - CSS
-- CSS preprocessor\(s\)\:
-    - SASS
-- CSS framework\(s\)\:
-    - \(Core\) Bootstrap\, Bulma\, Semantic\-Ui
-    - \(React\) MUI\, React Bootstrap\, Semantic\-Ui React\, Blueprint\, Evergreen\, Ant Design for React\, RSuite\, Rebass\, React Admin\, React Dashboard
+        - Preprocessor\(s\)\:
+            - SASS
+        - Framework\(s\)\:
+            - \(Core\) Bootstrap\, Bulma\, Semantic\-Ui
+            - \(React\) MUI\, React Bootstrap\, Semantic\-Ui React\, Blueprint\, Evergreen\, Ant Design for React\, RSuite\, Rebass\, React Admin\, React Dashboard
 - Scripting Language\(s\)\:
     - JavaScript
-- JavaScript library\(s\)\:
-    - JQuery\, ReactJS\, Angular
+        - Library\(s\)\:
+            - JQuery\, ReactJS\, Angular
 - Web framework\(s\)\:
     - Django \(Python\)\, Laravel \(PHP\)\, NextJS \(React\)\, Gatsby \(React\)
 - Package manager\(s\)\:
