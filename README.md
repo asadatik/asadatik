@@ -39,7 +39,7 @@
 - CMS\(s\)\:
     - Wordpress \(PHP\)
 - Graphics software\(s\)\:
-    - Adobe Photoshop
+    - Adobe Photoshop basic
     
 ### Professional experience\:
 - CEO & Founder at Team RoyalCoder\, Host at Space\, Cybersping\.
