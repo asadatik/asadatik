@@ -53,17 +53,15 @@
 ### Visit\:
 - [asadatik.me](https://www.asadatik.me)
 - [teamroyalcoder.com](https://www.teamroyalcoder.com)
--- <a href="">https://teamroyalcoder.com</a>
--- <a href="https://hostat.space">https://hostat.space</a>
--- <a href="https://cybersping.com">https://cybersping.com</a>
+- [hostatspace.com](https://www.hostatspace.com)
+- [cybersping.com](https://www.cybersping.com)
+- [infime.io](https://www.infime.io)
 
-♦♦♦♦ Contact:
+### Contact:
 
 -- <a href="mailto:asadatik.me.official@gmail.com">asadatik.me.official@gmail.com</a>
 -- <a href="mailto:teamroyalcoder.official@gmail.com">teamroyalcoder.official@gmail.com</a>
 -- <a href="mailto:hostatspace.team@gmail.com">hostatspace.team@gmail.com</a>
 -- <a href="mailto:cybersping.team@gmail.com">cybersping.team@gmail.com</a>
 
-/* Thanks For Visiting My Profile! */ 
-</pre>
-</div>
+\/* Thanks For Visiting My Profile! */
