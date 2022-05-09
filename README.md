@@ -19,7 +19,7 @@
     - HTML
         - Template engine\(s\)\:
             - Pug \(Node\)\, Twig \(PHP\)
-    - Markdown [M:down:]
+    - Markdown [M↓]
 - Style Sheet Language\(s\)
     - CSS
         - Preprocessor\(s\)\:
