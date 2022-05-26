@@ -38,7 +38,7 @@
 - Package manager(s):
     - PNPM (NodeJS), Yarn (NodeJS), NPM (NodeJS), Composer (PHP)
 - Database system(s):
-    - MySQL, MongoDB
+    - MySQL, MongoDB, PostgreSQL
 - CMS(s):
     - Wordpress (PHP)
 - Graphics software(s):
