@@ -60,19 +60,6 @@
 
 
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/asadatik">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100085206032914">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">
-  </a>
-</p>
-
----
-
 
 
 
