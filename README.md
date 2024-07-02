@@ -1,5 +1,7 @@
-![](https://i.ibb.co/Bj3tqnN/programming-background-collage-23-2149901789-1.jpg)
-### Peace be upon u👋, I am Atik ,
+<p align="center">
+ <img  width="800" height="400" src="https://i.ibb.co/Bj3tqnN/programming-background-collage-23-2149901789-1.jpg">
+</p>
+#  Peace be upon u👋, I am Atik ,
 #### 「 A Junior front-End Web Developer from Bangladesh 」
 
 Skills:  / REACT / JS / HTML / CSS
