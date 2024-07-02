@@ -1,7 +1,4 @@
-
-
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=light)](https://git.io/streak-stats)
 
 <!-- Title -->
 <h3 align="center">
@@ -14,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a Junior front-End Web Develope from <b>Bangladesh</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
