@@ -1,9 +1,6 @@
-(https://i.ibb.co/Bj3tqnN/programming-background-collage-23-2149901789-1.jpg)
-## Hi there 👋, I am Atik ,
+![](https://i.ibb.co/Bj3tqnN/programming-background-collage-23-2149901789-1.jpg)
+### Peace be upon u👋, I am Atik ,
 #### 「 A Junior front-End Web Developer from Bangladesh 」
-![「 A Junior front-End Web Developer from Bangladesh 」]
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  / REACT / JS / HTML / CSS
 
