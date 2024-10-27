@@ -1,20 +1,20 @@
-<p align="center">
-  <img width="800" height="400" src="https://i.ibb.co/Bj3tqnN/programming-background-collage-23-2149901789-1.jpg" alt="Programming Background">
-</p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://asadatik.io)
 
 <h1 align="center">Peace be upon u 👋, I am Atik.</h1>
-<h3 align="center">「  I'm a passionate junior front-end web developer from Bangladesh. My journey into web development began with the "Programming Hero" web development course, which ignited my curiosity and passion for creating interactive and visually stunning user interfaces .」</h3>
+<h3 align="center">「  I'm a passionate junior front-end web developer from Bangladesh. My journey into web development began with the "Programming Hero" web development course, which ignited my curiosity and passion for creating interactive and visually stunning user interfaces .   」</h3>
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadatik&label=Profile%20views&color=0e75b6&style=flat" alt="asadatik" /> </p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Atik's GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</p>
+[![atik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asadatik&&theme=xcode)](https://github.com/asadatik)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadatik&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asadatik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&locale=en&theme=tokyonight" alt="asadatik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&&theme=tokyonight" alt="asadatik" /></p>
 
 
 
