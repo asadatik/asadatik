@@ -30,13 +30,13 @@
   </p>
 
   <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" alt="Atik's Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" alt="Atik's Top Languages" width="56%" />
 </div>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/asadatik">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadatik&custom_title=Atik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" alt="Atik's Contribution Graph" width="90%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadatik&custom_title=Atik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" alt="Atik's Contribution Graph" width="100%"  />
   </a>
 </p>
 
