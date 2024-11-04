@@ -4,7 +4,7 @@
   
 # Peace Be Upon You 👋, I'm Atik
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&repeat=true&width=435&lines=Front-End+Developer+👨‍💻;React+Enthusiast+⚛️;Always+Learning+New+Things+📚;From+Rangpur,Bangladesh+with+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&repeat=true&width=600&lines=Front-End+Developer+👨‍💻;React+Enthusiast+⚛️;Always+Learning+New+Things+📚;From+Rangpur+Bangladesh+with+❤️)](https://git.io/typing-svg)
 </div>
 
 ## 🚀 About Me
@@ -22,26 +22,16 @@
 
 <div align="center">
   
-<!-- GitHub Streak Stats -->
-<p align="left">
-  <a href="https://github.com/asadatik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Atik's GitHub Streak" width="50%" />
-  </a>
-</p>
+ <p>
+    <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" alt="Atik's GitHub Streak" width="49%" />
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068&hide_title=false&card_width=495" alt="Atik's GitHub Stats" width="49%" />
+  </p>
 
-<!-- GitHub Stats Card -->
-<p align="right">
-  <a href="https://github.com/asadatik">
-    <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=c9d1d9&card_width=495" alt="Atik's GitHub Stats" width="50%" />
-  </a>
-</p>
-
-<!-- GitHub Top Languages -->
-<p align="left">
-  <a href="https://github.com/asadatik">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=radical&border=true&bg_color=0D1117&langs_count=8&layout=compact&title_color=e05397" alt="Atik's Top Languages" width="50%" />
-  </a>
-</p>
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" alt="Atik's Top Languages" width="49%" />
+</div>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
