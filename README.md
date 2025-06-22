@@ -21,27 +21,37 @@
 ## 🔥 My Stats
 
 <div align="center">
-  
- <p>
-   <!-- GitHub Streak Stats -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
-  alt="Atik's GitHub Streak" 
-  width="49%" 
-/>
-
+  <!-- GitHub Streak Stats -->
+  <p>
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
+      alt="Atik's GitHub Streak" 
+      width="49%" 
+    />
     <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068&hide_title=false&card_width=495" alt="Atik's GitHub Stats" width="49%" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068&hide_title=false&card_width=495" 
+      alt="Atik's GitHub Stats" 
+      width="49%" 
+    />
   </p>
 
   <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" alt="Atik's Top Languages" width="55%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" 
+    alt="Atik's Top Languages" 
+    width="55%" 
+  />
 </div>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/asadatik">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadatik&custom_title=Atik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" alt="Atik's Contribution Graph" width="100%"  />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=asadatik&custom_title=Atik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" 
+      alt="Atik's Contribution Graph" 
+      width="100%" 
+    />
   </a>
 </p>
 
@@ -51,23 +61,39 @@
   <br/>
   <p align="center">
     <a href="https://github.com/asadatik">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadatik&theme=radical" alt="Atik's GitHub Contribution" width="100%" />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadatik&theme=radical" 
+        alt="Atik's GitHub Contribution" 
+        width="100%" 
+      />
     </a>
   </p>
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asadatik&theme=radical" alt="Top Languages by Repo" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=radical" alt="Top Languages by Commit" width="49%" />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asadatik&theme=radical" 
+      alt="Top Languages by Repo" 
+      width="49%" 
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=radical" 
+      alt="Top Languages by Commit" 
+      width="49%" 
+    />
   </p>
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=radical" alt="Stats" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asadatik&theme=radical" alt="Commits" width="49%" />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=radical" 
+      alt="Stats" 
+      width="49%" 
+    />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asadatik&theme=radical" 
+      alt="Commits" 
+      width="49%" 
+    />
   </p>
 </details>
 
-
-
-
-</div>
 
 ## 💻 Tech Stack
 
