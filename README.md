@@ -23,8 +23,13 @@
 <div align="center">
   
  <p>
-    <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" alt="Atik's GitHub Streak" width="49%" />
+   <!-- GitHub Streak Stats -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
+  alt="Atik's GitHub Streak" 
+  width="49%" 
+/>
+
     <!-- GitHub Stats Card -->
     <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068&hide_title=false&card_width=495" alt="Atik's GitHub Stats" width="49%" />
   </p>
