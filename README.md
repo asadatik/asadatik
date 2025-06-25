@@ -34,7 +34,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
     alt="Atik's GitHub Stats" 
-    width="49%" 
+    width="40%" 
   />
 
 
@@ -45,7 +45,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" 
     alt="Atik's Top Languages" 
-    width="55%" 
+    width="40%" 
   />
 </div>
 
@@ -61,15 +61,15 @@
 </p>
 
 <!-- GitHub Contribution Details -->
-<details>
-  <summary><b>⚡ GitHub Contribution Details</b></summary>
-  <br/>
+
+  ## ⚡ GitHub Contribution Details
+  
   <p align="center">
     <a href="https://github.com/asadatik">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadatik&theme=radical" 
         alt="Atik's GitHub Contribution" 
-        width="100%" 
+        width="75%" 
       />
     </a>
   </p>
@@ -77,27 +77,28 @@
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asadatik&theme=radical" 
       alt="Top Languages by Repo" 
-      width="49%" 
+      width="40%" 
     />
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=radical" 
       alt="Top Languages by Commit" 
-      width="49%" 
+      width="40%" 
+    
     />
   </p>
-  <p align="center">
+  <p align="center"  >
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=radical" 
       alt="Stats" 
-      width="49%" 
+      width="40%" 
     />
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asadatik&theme=radical" 
       alt="Commits" 
-      width="49%" 
+      width="40%" 
     />
   </p>
-</details>
+
 
 
 ## 💻 Tech Stack
