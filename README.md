@@ -21,35 +21,34 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
- <div align="center">
- <!-- 🔥 GitHub Streak (New Working API) -->
+  <!-- 🔥 GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
     alt="Atik's GitHub Streak" 
-    width="49%" 
+    width="70%" 
+    style="margin-bottom: 10px;"
   />
 
-  <p align="center">
-  <!-- 💻 GitHub Stats -->
+ 
+ 
+ <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
+<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
     alt="Atik's GitHub Stats" 
-    width="40%" 
+    width="48%" 
+    style="margin-right: 1%;"
   />
 
-
-</div>
-
-
-  <!-- GitHub Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8" 
     alt="Atik's Top Languages" 
-    width="40%" 
-  /> 
-  </p>
+    width="48%" 
+  />
 </div>
+
+</div>
+
 
 <!-- GitHub Activity Graph -->
 <p align="center">
