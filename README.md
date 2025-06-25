@@ -30,6 +30,7 @@
     width="49%" 
   />
 
+  <p align="center">
   <!-- 💻 GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
@@ -46,7 +47,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8&card_width=445" 
     alt="Atik's Top Languages" 
     width="40%" 
-  />
+  /> 
+  </p>
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -82,9 +84,7 @@
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=radical" 
       alt="Top Languages by Commit" 
-      width="40%" 
-    
-    />
+      width="40%" >
   </p>
   <p align="center"  >
     <img 
