@@ -164,11 +164,8 @@ Other        20 mins       ░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-### 🎯 Goals for 2024
-- Master Next.js 
-- Contribute to open source projects
-- Build a full-stack project
-- Improve UI/UX design skills
+### 🎯 Goals for 2025
+- Become a Full-Stack Developer
 
 ---
 ### Thank you for visiting my profile! 🙏
