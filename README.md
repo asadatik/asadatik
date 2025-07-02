@@ -74,17 +74,7 @@
       />
     </a>
   </p>
-  <p align="center">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asadatik&theme=radical" 
-      alt="Top Languages by Repo" 
-      width="40%" 
-    />
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=radical" 
-      alt="Top Languages by Commit" 
-      width="40%" >
-  </p>
+ 
   <p align="center"  >
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=radical" 
