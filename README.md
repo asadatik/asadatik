@@ -18,6 +18,48 @@
 
 </div>
 
+## 🔥 My Stats
+
+<div align="center">
+  <!-- 🔥 GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
+    alt="Atik's GitHub Streak" 
+    width="70%" 
+    style="margin-bottom: 10px;"
+  />   
+
+ 
+ 
+ <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
+    alt="Atik's GitHub Stats" 
+    width="48%" 
+    style="margin-right: 1%;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8" 
+    alt="Atik's Top Languages" 
+    width="48%" 
+  />
+</div>
+
+</div>
+
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/asadatik">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=asadatik&custom_title=Atik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" 
+      alt="Atik's Contribution Graph" 
+      width="100%" 
+    />
+  </a>
+</p>
 
 <!-- GitHub Contribution Details -->
 
