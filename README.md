@@ -104,6 +104,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
 ### 🔧 Tools & Platform
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -118,7 +119,10 @@
 
 ### 📚 Currently Learning
 
-Next.js, TypeScript, Prisma, and building full-stack applications with modern tooling.
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 </div>
 
@@ -141,12 +145,19 @@ JavaScript   8 hrs 15 mins  ██████░░░░░░░░░░░�
 CSS          4 hrs 32 mins  ████░░░░░░░░░░░░░░░  16.2%
 HTML         2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░   8.0%
 Other        20 mins        ░░░░░░░░░░░░░░░░░░░   1.2%
+```
+
+## 🎯 Goals for 2026
 <div align="center">
-### 🎯 Goals for 2026
+
 - Become a production-ready Full-Stack Developer (Next.js + TypeScript + Node.js).
 - Build and deploy 4–6 real-world projects with clean code and documentation.
 - Contribute to open-source and grow as a collaborative engineer.
 - Sharpen problem-solving for product-based interviews.
 
-Thank you for visiting my profile! 🙏
-</div> ```
+
+<div align="center">
+
+###  Thank you for visiting my profile! 🙏
+
+</div> 
