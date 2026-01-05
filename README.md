@@ -32,30 +32,17 @@
 
 </div>
 
-<!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068"
-    alt="Atik's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8"
-    alt="Atik's Top Languages"
-    height="180"
-  />
-</p>
+<!-- language  -->
+<div align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=tokyonight"
+  width="40%"
+/>
+
+</div>
 
 <!-- GitHub Activity Graph -->
-<p align="center">
-  <a href="https://github.com/asadatik">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=asadatik&custom_title=Atik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true"
-      alt="Atik's Contribution Graph"
-      width="100%"
-    />
-  </a>
-</p>
+
 
 ## ⚡ GitHub Contribution Details
 
