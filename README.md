@@ -21,14 +21,14 @@
 
 ## 🔥 My Stats
 
-<div align="center">
-
-<!-- 🔥 GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2"
-  alt="Atik's GitHub Streak"
-  width="50%"
-/>
+<div>
+<p align="center">
+<img src="[https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed](https://nirzak-streak-stats.vercel.app/?user=sazid60&theme=github-dark-dimmed)" width="100%"   />
+</p>
+<p align="center">
+<img src="[http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights)" width="49%"  />
+<img src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights)" width="49%" />
+</p>  
 
 </div>
 
