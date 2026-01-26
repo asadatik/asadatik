@@ -27,7 +27,7 @@
 <img
   src="https://streak-stats.demolab.com?user=asadatik&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2"
   alt="Atik's GitHub Streak"
-  width="70%"
+  width="50%"
 />
 
 </div>
