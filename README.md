@@ -4,14 +4,14 @@
 
 # Peace Be Upon You 👋, I'm Atik
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&repeat=true&width=600&lines=Front-End+Developer+👨‍💻;React+Enthusiast+⚛️;Always+Learning+New+Things+📚;From+Rangpur+Bangladesh+with+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&repeat=true&width=600&lines=Jr+Full+Stack++Developer+👨‍💻;Next.js+Enthusiast+⚛️;Always+Learning+New+Things+📚;From+Rangpur+Bangladesh+with+❤️)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-> I'm a passionate junior front-end web developer from Bangladesh, dedicated to creating pixel-perfect, user-friendly web experiences. My development journey started with the "Programming Hero" web development course, which sparked my passion for building innovative web solutions.
-
+> Full-stack developer working with TypeScript, React/Next.js, Node.js, Express.js , Mongodb , Mongoose , PostgreSQL, and  Redux.
+Focused on clean, type-safe, maintainable code and real-world problem solving.
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/asadatik?style=social)](https://github.com/asadatik)
