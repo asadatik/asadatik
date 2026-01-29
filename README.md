@@ -23,11 +23,11 @@
 
 <div>
 <p align="center">
-<img src="[https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed](https://nirzak-streak-stats.vercel.app/?user=sazid60&theme=github-dark-dimmed)" width="100%"   />
+<img src="[https://nirzak-streak-stats.vercel.app?user=sazid60&theme=github-dark-dimmed](https://nirzak-streak-stats.vercel.app/?user=asadatik&theme=github-dark-dimmed)" width="100%"   />
 </p>
 <p align="center">
-<img src="[http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights)" width="49%"  />
-<img src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights)" width="49%" />
+<img src="[http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazid60&theme=city_lights](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asadatik&theme=city_lights)" width="49%"  />
+<img src="[http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sazid60&theme=city_lights](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=city_lights)" width="49%" />
 </p>  
 
 </div>
