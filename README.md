@@ -22,7 +22,7 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -33,37 +33,10 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?asadatik=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- language  -->
-
-</div>
 
 <!-- GitHub Activity Graph -->
 
 
-## ⚡ GitHub Contribution Details
-
-<p align="center">
-  <a href="https://github.com/asadatik">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadatik&theme=radical"
-      alt="Atik's GitHub Contribution"
-      width="75%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=radical"
-    alt="Stats"
-    width="40%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asadatik&theme=radical"
-    alt="Commits"
-    width="40%"
-  />
-</p>
 
 ## 💻 Tech Stack
 
@@ -120,15 +93,6 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 </div>
 
-## 📊 Weekly Development Breakdown
-
-```text
-React       12 hrs 40 mins  ███████████░░░░░░░░  45.2%
-JavaScript   8 hrs 15 mins  ██████░░░░░░░░░░░░░  29.4%
-CSS          4 hrs 32 mins  ████░░░░░░░░░░░░░░░  16.2%
-HTML         2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░   8.0%
-Other        20 mins        ░░░░░░░░░░░░░░░░░░░   1.2%
-```
 
 ## 🎯 Goals for 2026
 <div align="center">
