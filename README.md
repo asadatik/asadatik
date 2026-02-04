@@ -19,14 +19,21 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 </div>
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?asadatik=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <!-- language  -->
-<div align="center">
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadatik&theme=tokyonight"
-  width="40%"
-/>
 
 </div>
 
