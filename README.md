@@ -20,9 +20,13 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 </div>
 
-
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&locale=en&theme=tokyonight" alt="asadatik" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.theodorusclarence.com/api?username=asadatik&show_icons=true&theme=tokyonight" />
+</div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=dark)
+
 
 <!-- GitHub Activity Graph -->
 
