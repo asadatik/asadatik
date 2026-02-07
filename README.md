@@ -22,9 +22,8 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&v=2" alt="GitHub Streak" />
