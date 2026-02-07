@@ -22,7 +22,7 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?asadatik=YOUR_USERNAME&show_icons=true&theme=dark)
 
 
 <p align="center">
