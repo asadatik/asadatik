@@ -20,18 +20,36 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 </div>
 
-## 📊 GitHub Stats
+
+<!--stats -->
+<div >
+
+
+
+
+## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://github-readme-stats.theodorusclarence.com/api?username=asadatik&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight" 
+ alt="Atik's streak"
+   width="60%" 
+  />
+  
 </div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&theme=dark)
-
-
 <!-- GitHub Activity Graph -->
+## 💻 Profile Summary 
 
 
-## ⚡ GitHub Contribution Details
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=tokyonight"
+    alt="Stats"
+    width="40%"
+  />
+<img src="https://github-readme-stats-orcin-mu-16.vercel.app/api/top-langs/?username=asadatik&layout=compact&theme=tokyonight" width="40%" />
+
+</p>
+
 
 <p align="center">
   <a href="https://github.com/asadatik">
@@ -43,18 +61,8 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadatik&theme=radical"
-    alt="Stats"
-    width="40%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asadatik&theme=radical"
-    alt="Commits"
-    width="40%"
-  />
-</p>
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -104,21 +112,12 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadujjaman-atik/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/senjer.atik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadujjaman-atik)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/codewithatik)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadatik1995@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://asadatik.io)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://protfolio-ten-weld.vercel.app/)
 </div>
 
-## 📊 Weekly Development Breakdown
-```text
-React       12 hrs 40 mins  ███████████░░░░░░░░  45.2%
-JavaScript   8 hrs 15 mins  ██████░░░░░░░░░░░░░  29.4%
-CSS          4 hrs 32 mins  ████░░░░░░░░░░░░░░░  16.2%
-HTML         2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░   8.0%
-Other        20 mins        ░░░░░░░░░░░░░░░░░░░   1.2%
-```
 
 ## 🎯 Goals for 2026
 
