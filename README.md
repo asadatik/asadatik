@@ -22,17 +22,7 @@ Focused on clean, type-safe, maintainable code and real-world problem solving.
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?asadatik=YOUR_USERNAME&show_icons=true&theme=dark)
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadatik&theme=tokyonight&v=2" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadatik&layout=compact&theme=tokyonight&v=2" alt="Top Languages" />
-</p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadatik&show_icons=true&locale=en&theme=tokyonight" alt="asadatik" /></p>
 
 <!-- GitHub Activity Graph -->
 
